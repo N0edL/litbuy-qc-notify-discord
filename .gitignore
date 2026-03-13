@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+state.json
+warehouse_qc.db
+
+after_login.png
